@@ -7,7 +7,7 @@
 </p>
 
 ## 💫About Me
-I am Backend Enginee. Sharpening my skills in building scalable and secure web application for using real-life problems. My domain is Python and framework in which I have experience is django.
+I am Backend Engineer. Sharpening my skills in building scalable and secure web application for using real-life problems. My domain is Python and framework in which I have experience is django.
 
 🔥 **What inspires me:**  
 > The power of technology to automate tasks, solve human problems, and build products that can change lives, from AI solutions to rescue apps to educational platforms.
