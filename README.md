@@ -3,7 +3,7 @@
 <h1 align="center" text="bold">Hi there, I'm Samyak Tiwari👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Backend+Engineer;Building+Scalable+Tech+Solutions;Webapplications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Engineer;Building+Scalable+Tech+Solutions;Webapplications" alt="Typing SVG" />
 </p>
 
 ## 💫About Me
